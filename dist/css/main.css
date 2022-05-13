@@ -28,3 +28,11 @@
   max-width: 80%;
   height: auto;
 }
+
+h2 {
+  width: 80vw;
+}
+
+p {
+  width: 75vmin;
+}
