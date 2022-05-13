@@ -1,0 +1,17 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.square {
+  width: 500px;
+  height: 500px;
+  background-color: hotpink;
+}
+
+@media (min-width: 1000px) {
+  .square {
+    width: 700px;
+    height: 700px;
+  }
+}
